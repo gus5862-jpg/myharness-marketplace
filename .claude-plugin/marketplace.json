@@ -1,0 +1,17 @@
+{
+  "name": "myharness-marketplace",
+  "owner": {
+    "name": "gus5862"
+  },
+  "metadata": {
+    "description": "practice-m3에서 다듬은 라운드 개발 하네스를 다른 프로젝트에서 쓰기 위한 로컬 마켓플레이스"
+  },
+  "plugins": [
+    {
+      "name": "myharness",
+      "source": "./plugins/myharness",
+      "description": "라운드 개발 하네스: verifier · cleaner 에이전트, 위험 명령 차단 · 린트 Hook, round 스킬",
+      "version": "0.1.0"
+    }
+  ]
+}

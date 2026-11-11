@@ -1,0 +1,8 @@
+{
+  "name": "myharness",
+  "description": "라운드 개발 하네스: verifier · cleaner 에이전트, 위험 명령 차단 · 린트 Hook, round 스킬",
+  "version": "0.1.0",
+  "author": {
+    "name": "gus5862"
+  }
+}
